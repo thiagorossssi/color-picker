@@ -1,7 +1,6 @@
 # color-picker
 COLOR PICKER
 
-Introdução:
 Você já se deparou com a difícil tarefa de escolher as cores perfeitas para o seu projeto de design? Se sim, você não está sozinho! A escolha das cores certas é fundamental para transmitir a mensagem correta, evocar emoções e criar uma experiência visual impactante. Felizmente, existe uma ferramenta indispensável para os designers: o Color Picker (ou selecionador de cores).
 
 
